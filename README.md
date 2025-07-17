@@ -25,4 +25,3 @@ It helps the network generalize better and learn efficiently.
 ## CIFAR-10 Classes 
 airplane | automobile | bird | cat | deer | dog | frog | horse | ship | truck 
 
-### Link 
